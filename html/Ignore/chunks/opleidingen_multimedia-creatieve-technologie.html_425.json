@@ -1,0 +1,5 @@
+{
+    "id": 425,
+    "content": "Back-End We bekijken een nieuwe taal voor backend web projecten en werken met het populairste framework in die taal. In het tweede deel van het vak behandelen we database best practices en design, security implementaties en deploymethodes voor backend projecten. Voorbeeld: 1 werkstuk met 3 luiken: Database design, Applicatie structuur en security (nieuwe invulling). 1. Inleiding tot backend, werkstuk overlopen, deadlines meegeven. Basis PHP 2. Web specific PHP: Sessions, cookies, Forms 3. Intro tot Composer en apache server setup 4. Laravel Introduction and Views/layout 5. Database design en best practices + Laravel Migrations en seeders 6. Werkstuk basics implementeren en begeleiding 7. Rest API best practices en Security 8. Security implementation en deployment op servers 9. Werkstuk werken en begeleiding",
+    "url": "https://www.erasmushogeschool.be/nl/opleidingen/multimedia-creatieve-technologie"
+}
